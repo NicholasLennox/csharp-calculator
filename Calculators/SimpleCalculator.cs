@@ -67,4 +67,11 @@ public class SimpleCalculator
         LastResult = result; // object updates its internal state
         return result;
     }
+
+    public int MyProperty { get => PropertyMethod(); set; }
+
+    private int PropertyMethod()
+    {
+        return 69;
+    }
 }

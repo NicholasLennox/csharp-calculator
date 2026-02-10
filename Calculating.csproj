@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Folder Include="Calculators\" />
+    <Folder Include="Encapsulation\" />
   </ItemGroup>
 
 </Project>
