@@ -4,7 +4,7 @@ This application builds a simple calculator in an OOP manner.
 
 It will explore:
 
-- Object construction and destruction
+- Object construction
 - Fields and properties (to track internal state)
 - Methods (perform operations and manipulate internal state)
 - Basic documentation
