@@ -1,3 +1,3 @@
-# Static and accessor demo
+# Namespaces demo
 
-A very simple console application to demonstrate how static works and be introduced to the accessors (private, public, etc.).
+A very simple console application to demonstrate how 'namespaces' and 'using' work.
