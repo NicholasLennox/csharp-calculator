@@ -2,7 +2,7 @@
 // internal -> only visible in this project (even when referenced by another project)
 internal class Program
 {
-    // private -> only visible in enclosing block {}
+    // private -> only visible in enclosing class (Program)
     // static -> mark member (method in this case) as part of the class itself, not the instance
     private static void Main(string[] args)
     {
