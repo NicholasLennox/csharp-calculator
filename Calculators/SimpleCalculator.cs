@@ -9,6 +9,9 @@ public class SimpleCalculator
 
     // ===== Constructors (initialize state) =====
 
+    /// <summary>
+    /// Default constructor for SimpleCalculator
+    /// </summary>
     public SimpleCalculator()
     {
     }
